@@ -1,0 +1,113 @@
+{
+  "main": {
+    "name":"Fardin Safikhani",
+    "description":"I am a software developer and I use javascript/react to develop pages, as well as Unity and C# to create Games. This website will be a place to host my projects",
+    "image":"profilepic.jpg",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "safikhanifardin@gmail.com",
+    "phone": "647-712-3095",
+    "github":"https://github.com/fardin2000",
+    "project":"https://github.com/fardin2000",
+    "address":{
+      "street":"79 Frybrook Cresent",
+      "city":"Richmond Hill",
+      "state":"ON",
+      "zip": "L4B4B9"
+    },
+    "website": "http://fardin.xyz",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/xxfardinxx",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/FardinFrancis",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/fardinsafikhani/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/fardinfrancis/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/fardin2000",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University?",
+        "degree":"Masters in Beer tasting",
+        "graduated":"April 2007",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"School #1 Maybe College?",
+        "degree":"What did you study 101",
+        "graduated":"March 2003",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2010 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"JavaScript",
+        "level":"60%"
+      },
+      {
+        "name":"Unity",
+        "level":"75%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"55%"
+      },
+      {
+        "name":"CSS",
+        "level":"85%"
+      },
+      {
+        "name":"C#",
+        "level":"80%"
+      },
+      {
+        "name":"Python",
+        "level":"50%"
+      },
+      {
+        "name":"JAVA",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+    ]
+  }
+}
