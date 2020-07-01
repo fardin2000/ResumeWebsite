@@ -100,10 +100,10 @@ class Contact extends Component {
           </div>
           <aside className="four columns footer-widgets">
             <div className="widget widget_contact">
-              <h4> Address and Phone </h4>{" "}
+              <h4> Name and Phone </h4>{" "}
               <p className="address">
                 {" "}
-                {name} <br /> {street} <br /> {city}, {state} {zip} <br />
+                {name} <br />
                 <span> {phone} </span>{" "}
               </p>{" "}
             </div>
