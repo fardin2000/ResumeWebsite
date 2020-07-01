@@ -1096,6 +1096,7 @@ footer {
   font-size: 14px;
   text-align: center;
   position: relative;
+  background: #191919;
 }
 
 footer a, footer a:visited {
