@@ -50,9 +50,8 @@ class About extends Component {
                 <p>
                   <a
                     href={resumeDownload}
-                    target="_blank"
                     className="button"
-                    download
+                    download="FardinResume"
                   >
                     <i className="fa fa-download" />
                     Download Resume
