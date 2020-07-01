@@ -3,7 +3,7 @@
     "name":"Fardin Safikhani",
     "description":"I am a software developer and I use javascript/react to develop pages, as well as Unity and C# to create Games. This website will be a place to host my future projects and hopefully catch the eyes of employers",
     "image":"Rummy.png",
-    "bio":"I am a proud worker and I enjoy working on projects that have passion in them. During my time at school I learned a lot about data structures and the tools to make applications. I have always made sure to keep my skills topped off over the years by working on personal projects. Many of the projects I work on require knowledge of specific programming languages and in order to learn I learned many some of the skills I have and still do prided myself on are: Javascript, Python, C#, and Java. I have used these languages consistently throughout the years and Im sure that given enough time I can learn even more about them, including any new libraries that come with time.",
+    "bio":"I am a proud worker and I enjoy working on projects that have passion in them. During my time at school I learned a lot about data structures and the tools to make applications. I have always made sure to keep my skills topped off over the years by working on personal projects. Many of the projects I work on require knowledge of specific programming languages and in order to continue working on them I learned many coding languages, some of the skills I have and still do prided myself on are: Javascript, Python, C#, and Java. I have used these languages consistently throughout the years and Im sure that given enough time I can learn even more about them, including any new libraries that come with time.",
     "contactmessage":"Feel free to drop your email and get in touch ill get to you ASAP",
     "email": "safikhanifardin@gmail.com",
     "phone": "647-712-3095",
@@ -16,7 +16,7 @@
       "zip": "L4B4B9"
     },
     "website": "http://fardin.xyz",
-    "resumedownload":"images/FardinResume.pdf",
+    "resumedownload":"./images/FardinResume.pdf",
     "social":[
       {
         "name":"facebook",
@@ -52,7 +52,7 @@
         "school":"York University",
         "degree":"Bachelor in Computer Science",
         "graduated":"June 2021",
-        "description":"Went to york and learned a lot about data structures and the actual makeup of the software we use day to day. York "
+        "description":"Went to york and learned a lot about data structures and the actual makeup of the software we use day to day. York will always have a special place in my heart and I am happy i managed to learn as much as I could during my degree."
       }
     ],
     "work":[
