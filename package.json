@@ -1,7 +1,7 @@
 {
   "name": "ResumeWebsite",
   "version": "0.1.0",
-  "homepage": "fardin.xyz",
+  "homepage": "https://fardin.xyz",
   "private": true,
   "dependencies": {
     "anix": "^0.3.3",
