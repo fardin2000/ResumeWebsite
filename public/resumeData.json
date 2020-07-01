@@ -1,10 +1,10 @@
 {
   "main": {
     "name":"Fardin Safikhani",
-    "description":"I am a software developer and I use javascript/react to develop pages, as well as Unity and C# to create Games. This website will be a place to host my projects",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "description":"I am a software developer and I use javascript/react to develop pages, as well as Unity and C# to create Games. This website will be a place to host my future projects and hopefully catch the eyes of employers.",
+    "image":"Rummy.png",
+    "bio":"I am a proud worker and i enjoy",
+    "contactmessage":"Feel free to drop your email and get in touch ill get to you ASAP",
     "email": "safikhanifardin@gmail.com",
     "phone": "647-712-3095",
     "github":"https://github.com/fardin2000",
@@ -16,7 +16,7 @@
       "zip": "L4B4B9"
     },
     "website": "http://fardin.xyz",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"FardinResume.pdf",
     "social":[
       {
         "name":"facebook",
@@ -57,16 +57,10 @@
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"McDonalds Crew",
+        "title":"Crew Trainer",
+        "years":"December 2016 - Present",
+        "description":"McDonalds has taught me alot about teamwork and general responsability, from arriving to work "
       }
     ],
     "skills":[
