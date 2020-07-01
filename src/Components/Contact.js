@@ -29,7 +29,12 @@ class Contact extends Component {
         </div>
         <div className="row">
           <div className="eight columns">
-            <form action="" method="post" id="contactForm" name="contactForm">
+            <form
+              action="https://formspree.io/xbjzanzp"
+              method="POST"
+              id="contactForm"
+              name="contactForm"
+            >
               <fieldset>
                 <div>
                   <label htmlFor="contactName">
@@ -55,7 +60,7 @@ class Contact extends Component {
                     defaultValue=""
                     size="35"
                     id="contactEmail"
-                    name="contactEmail"
+                    name="_replyto"
                     onChange={this.handleChange}
                   />{" "}
                 </div>
@@ -79,13 +84,16 @@ class Contact extends Component {
                     cols="50"
                     rows="15"
                     id="contactMessage"
-                    name="contactMessage"
+                    name="message"
                   >
                     {" "}
                   </textarea>{" "}
                 </div>
                 <div>
-                  <button className="submit"> Submit </button>{" "}
+                  <button type="submit" className="submit">
+                    {" "}
+                    Submit{" "}
+                  </button>{" "}
                   <span id="image-loader">
                     <img alt="" src="images/loader.gif" />
                   </span>{" "}
